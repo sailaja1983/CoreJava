@@ -37,8 +37,10 @@ public class DuplicateCharsInString {
 		System.out.println(hm);
 			
 /*	//Duplicate occurence of each string:
+ *      	 
 		//Creating a HashMap containing char as key and it's occurrences as value
-		 
+		 * 
+	
         HashMap<Character, Integer> charCountMap = new HashMap<Character, Integer>();
  
         //Converting given string to char array
